@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Jeesun<br>- 👀 I’m interested in Data Science/Big Data/ML/AI/Cyber security<br>- 🌱 I’m currently learning Data analytics<br>- 📫 How to reach me ... my email (sami3638@gmail.com)
+- 👋 Hi, I’m Jeesun<br>- 👀 I’m interested in Data Science/Big Data/ML/AI/Cyber security<br>- 🌱 I’m currently learning Cyber security <br>- 📫 How to reach me ... my email (sami3638@gmail.com)
 
 
 ## 🌐 Socials:
