@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Jeesun<br>- 👀 I’m interested in Data Science/Big Data/ML/AI/Cyber security<br>- 🌱 I’m a Cyber Security Expert <br>- 📫 How to reach me ... my email (sami3638@gmail.com)
+- 👋 Hi, I’m Jeesun<br>- 👀 I’m interested in Big Data/AI/Cyber security<br>- 🌱 I’m a Cyber Security Expert <br>- 📫 How to reach me ... my email (sami3638@gmail.com)
 
 
 ## 🌐 Socials:
