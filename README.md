@@ -122,15 +122,6 @@ class SecurityEngineer:
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bradtraversy&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=2&row=1&hide=followers,stars" alt="Trophies" />
-
-</div>
-
-<br>
 
 ## 🐍 Contribution Graph
 
