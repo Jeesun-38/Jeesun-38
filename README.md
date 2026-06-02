@@ -1,15 +1,33 @@
-<!-- ====== HEADER BANNER ====== -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=Cyber%20Security%20Engineer&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Threat%20Detection%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20AI%20%2F%20ML&descSize=18&descAlignY=58" />
 
-<!-- Typing animation -->
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="180" style="margin-top: -20px; margin-bottom: 10px;" />
+
+<br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Cyber+Security+Expert;Threat+Hunter+%26+Defender;AI+%2F+ML+Practitioner;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
 </a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> About Me
+
+```python
+class SecurityEngineer:
+    def __init__(self):
+        self.name        = "Jeesun"
+        self.role        = "Cyber Security Expert"
+        self.focus       = ["Threat Detection", "Offensive Security", "AI/ML", "Big Data"]
+        self.mindset     = "Defenders think in lists. Attackers think in graphs."
+        self.always_on   = True
+
+    def reach_me(self):
+        return self.links["LinkedIn", "Email"]  # see badges below
 ---
 
 ## 💻 About Me
