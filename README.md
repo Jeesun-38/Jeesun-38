@@ -107,6 +107,24 @@ class SecurityEngineer:
 
 <br>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="35" /> Top Projects
+
+<div align="center">
+
+<a href="https://github.com/Jeesun-38/anubis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=anubis&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+</a>
+<a href="https://github.com/Jeesun-38/RED-LAB-TOOLS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=RED-LAB-TOOLS&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+</a>
+<a href="https://github.com/Jeesun-38/Z3tsu-Network-Sniffer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=Z3tsu-Network-Sniffer&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+</a>
+
+</div>
+
+<br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
