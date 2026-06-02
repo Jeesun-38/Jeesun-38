@@ -122,14 +122,12 @@ class SecurityEngineer:
 
 <br>
 
-## 🏆 GitHub Trophies
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
 
 <div align="center">
 
-<!-- Shhh... we are borrowing stats here but hiding the super obvious ones -->
-![](https://github-profile-trophy.vercel.app/?username=fabpot&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=2&row=1&hide=stars,followers,issues,pullrequest,reviews)
+<!-- HTML img tag is much more reliable inside a div! -->
+<img src="https://github-profile-trophy.vercel.app/?username=fabpot&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=2&row=1&hide=stars,followers,issues,pullrequest,reviews" alt="Trophies" />
 
 </div>
 
