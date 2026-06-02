@@ -19,7 +19,7 @@
 ```python
 class SecurityEngineer:
     def __init__(self):
-        self.name        = "Jeesun"
+        self.name        = "Zetsu"
         self.role        = "Cyber Security Expert"
         self.focus       = ["Threat Detection", "Offensive Security", "AI/ML", "Big Data"]
         self.mindset     = "Defenders think in lists. Attackers think in graphs."
