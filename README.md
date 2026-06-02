@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 ```python
 class SecurityEngineer:
