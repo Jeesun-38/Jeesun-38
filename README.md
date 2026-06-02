@@ -112,13 +112,13 @@ class SecurityEngineer:
 <div align="center">
 
 <a href="https://github.com/Jeesun-38/anubis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=anubis&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=anubis&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0&v=1" width="400" />
 </a>
 <a href="https://github.com/Jeesun-38/RED-LAB-TOOLS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=RED-LAB-TOOLS&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=RED-LAB-TOOLS&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0&v=1" width="400" />
 </a>
 <a href="https://github.com/Jeesun-38/Z3tsu-Network-Sniffer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=Z3tsu-Network-Sniffer&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=Z3tsu-Network-Sniffer&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&hide_border=true&text_color=a0aec0&v=1" width="400" />
 </a>
 
 </div>
