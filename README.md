@@ -17,9 +17,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> About Me
 
-
-## 💻 About Me
-
 ```python
 class SecurityEngineer:
     def __init__(self):
