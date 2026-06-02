@@ -126,8 +126,7 @@ class SecurityEngineer:
 
 <div align="center">
 
-<!-- HTML img tag is much more reliable inside a div! -->
-<img src="https://github-profile-trophy.vercel.app/?username=fabpot&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=2&row=1&hide=stars,followers,issues,pullrequest,reviews" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=bradtraversy&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=2&row=1&hide=followers,stars" alt="Trophies" />
 
 </div>
 
