@@ -1,14 +1,11 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=8E2DE2&background=0D1117&center=true&vCenter=true&width=800&height=230&lines=%3E_Initializing+Root+Environment...;%3E_Loading+Offensive+Security+Modules...;%3E_Configuring+Blue+Team+Defenses...;%3E_Access+Granted:+Zetsu" alt="Terminal Banner" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(142, 45, 226, 0.2); margin-bottom: 20px;" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=8E2DE2&background=0D1117&center=true&vCenter=true&width=800&height=230&lines=%3E_Initializing+Root+Environment...;%3E_Loading+Offensive+Security+Modules...;%3E_Configuring+Blue+Team+Defenses...;%3E_Access+Granted:+Zetsu" alt="Terminal Banner" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Expert;Threat+Hunter+%26+Defender;AI+%2F+ML+Practitioner;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Expert;Threat+Hunter+%26+Defender;AI+%2F+ML+Practitioner;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
 
 </div>
 
@@ -107,8 +104,10 @@ class SecurityEngineer:
 
 <br>
 
-📌 Featured Projects
+## 📌 Featured Projects
+
 <div align="center">
+
 <a href="https://github.com/Jeesun-38/anubis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=anubis&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" />
 </a>
@@ -118,6 +117,7 @@ class SecurityEngineer:
 <a href="https://github.com/Jeesun-38/Z3tsu-Network-Sniffer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeesun-38&repo=Z3tsu-Network-Sniffer&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" />
 </a>
+
 </div>
 
 <br>
@@ -136,7 +136,6 @@ class SecurityEngineer:
 </div>
 
 <br>
-
 
 ## 🐍 Contribution Graph
 
