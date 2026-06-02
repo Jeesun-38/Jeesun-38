@@ -17,18 +17,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> About Me
 
-```python
-class SecurityEngineer:
-    def __init__(self):
-        self.name        = "Jeesun"
-        self.role        = "Cyber Security Expert"
-        self.focus       = ["Threat Detection", "Offensive Security", "AI/ML", "Big Data"]
-        self.mindset     = "Defenders think in lists. Attackers think in graphs."
-        self.always_on   = True
-
-    def reach_me(self):
-        return self.links["LinkedIn", "Email"]  # see badges below
----
 
 ## 💻 About Me
 
