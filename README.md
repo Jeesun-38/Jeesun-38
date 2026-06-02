@@ -1,8 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<!-- Working Animated GIF Banner -->
-<img src="https://media.giphy.com/media/L5aC2b3jRvURi/giphy.gif" width="100%" height="230px" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(142, 45, 226, 0.5);" alt="Animated Cyber Banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ae-4815-abbc-ce9c9b132e4d.gif" width="100%" height="230px" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(142, 45, 226, 0.3);" alt="Cyber Data Stream" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
