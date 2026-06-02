@@ -1,12 +1,14 @@
-
+<!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=Cyber%20Security%20Engineer&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Threat%20Detection%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20AI%20%2F%20ML&descSize=18&descAlignY=58" />
+<!-- NEW HIGHLY DYNAMIC BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/h9D7T3N/cybersecurity-engineer-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/6P2T2m5/cybersecurity-engineer-light.gif" />
+  <img alt="Cybersecurity Engineer Banner Animation" src="https://i.ibb.co/h9D7T3N/cybersecurity-engineer-dark.gif" width="100%" height="230px" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(142, 45, 226, 0.5);" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="180" style="margin-top: -20px; margin-bottom: 10px;" />
-
-<br>
-
+<!-- Typing animation (KEPT BELOW FOR EXTRA DYNAMIC EFFECT) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Cyber+Security+Expert;Threat+Hunter+%26+Defender;AI+%2F+ML+Practitioner;Always+Learning%2C+Always+Securing" alt="Typing SVG" />
 </a>
