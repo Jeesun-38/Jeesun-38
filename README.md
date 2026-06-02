@@ -24,13 +24,8 @@ class SecurityEngineer:
         self.always_on   = True
 
     def reach_me(self):
-        return "sami3638@gmail.com"
+        return self.links["LinkedIn", "Email"]  # see badges below
 ```
-
-- 🛡️ I work across **Cyber Security**, **AI/ML**, and **Big Data**
-- 🔍 Interested in threat detection, offensive security, and applying ML to security problems
-- 🌱 Continuously sharpening skills through hands-on labs and CTFs
-- 📫 Reach me: **sami3638@gmail.com**
 
 <br>
 
@@ -124,15 +119,19 @@ class SecurityEngineer:
 
 <br>
 
-<!-- ====== CONTRIBUTION SNAKE ======
-   Optional: animated snake that eats your contribution graph.
-   To enable it, add the Platane/snk GitHub Action to a workflow file,
-   then uncomment the line below. -->
-<!--
+## 🐍 Contribution Graph
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeesun-38/Jeesun-38/output/github-contribution-grid-snake-dark.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeesun-38/Jeesun-38/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeesun-38/Jeesun-38/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jeesun-38/Jeesun-38/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
--->
+
+<br>
 
 <div align="center">
 
